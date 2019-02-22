@@ -8,7 +8,7 @@
 
 Clone o repositório em seu computador, instale as gems do projeto, crie a database e inicie o servidor Rails, como mostrado abaixo.
 
-    git clone https://bitbucket.org/mauricioliraweb/code-challenge.git
+    git clone git@github.com:mauricioliradev/api-ecomerce-rails.git
 
     cd code-challenge
 
